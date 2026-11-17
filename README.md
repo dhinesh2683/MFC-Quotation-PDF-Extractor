@@ -19,20 +19,10 @@ A Python-based Streamlit application that extracts quotation details from PDF fi
 - OpenPyXL
 - MySQL
 
-## How to Run
-
-1. Clone the repository.
-2. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
 ```
 
-3. Run the application:
+Run the application:
 
 ```bash
 streamlit run app.py
 ```
-
-## Author
-Dhinesh K
