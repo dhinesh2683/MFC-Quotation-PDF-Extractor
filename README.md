@@ -22,7 +22,5 @@ A Python-based Streamlit application that extracts quotation details from PDF fi
 ```
 
 Run the application:
-
-```
 streamlit run app.py
-```
+
